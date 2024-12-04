@@ -1,3 +1,3 @@
-This is John's portfolio.
-I'm a solution architect, full-stack developer
+I'm John Peregrine
+I'm a solution architect, full-stack developer, open to work
 Hire me
